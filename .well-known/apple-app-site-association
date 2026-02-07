@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "R662BH835Y.com.maxnguyen.tapcare",
+        "appID": "R662BH835Y.com.maxnguyen.TapCare",
         "paths": [ "/tap/*", "/caregiver/*" ]
       }
     ]
